@@ -1,8 +1,8 @@
 .. toctree::
     
-    Introduction
-    Privacy policy
-    Terms and Conditions
+    index
+    privacy
+    tandc
 
 ============
 Introduction
