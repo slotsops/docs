@@ -1,3 +1,9 @@
+.. toctree::
+    
+    Introduction
+    Privacy policy
+    Terms and Conditions
+
 Introduction
 ============
 
