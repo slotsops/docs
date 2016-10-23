@@ -1,3 +1,8 @@
+.. toctree::
+    Intro <index>
+    Terms&Conditions <tandc>
+    Privacy <privacy>
+
 $project
 ========
 
