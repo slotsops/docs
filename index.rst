@@ -1,5 +1,6 @@
 .. toctree::
     :hidden:
+    :maxdepth: 2
     
     self
     privacy
