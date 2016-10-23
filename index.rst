@@ -1,6 +1,7 @@
 .. toctree::
     :maxdepth: 2
     
+    self
     privacy
     tandc
 
